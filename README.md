@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Hakim 👋
+Cybersecurity Engineering student at ENSA Tétouan, building hands-on skills in SOC Analysis, DFIR, SIEM monitoring, and threat detection.
+I am building hands-on experience in:
+- SIEM monitoring
+- Threat detection
+- Incident analysis
+- Malware investigation
+- Security labs
 
-<!--
-**hakimfakhar/hakimfakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently focused on developing my skills as a SOC Analyst through practical projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Security is a continuous process of learning, detecting, and improving."
