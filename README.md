@@ -1,4 +1,4 @@
-# Hi, I'm Hakim 👋
+# Hi, I'm Hakim 
 Cybersecurity Engineering student at ENSA Tétouan, building hands-on skills in SOC Analysis, DFIR, SIEM monitoring, and threat detection.
 I am building hands-on experience in:
 - SIEM monitoring
